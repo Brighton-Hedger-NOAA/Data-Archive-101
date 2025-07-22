@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1.  **[The Basics: Key Terms and Systems](#the-basics:-key-terms-and-systems)**
+1.  **[The Basics: Key Terms and Systems](#the-basics-key-terms-and-systems)**
 2.  **The Archive Workflow: Step-by-Step**
       * [Step 1: Planning](#step-1-Planning)
       * [Step 2: Prep and QC Your Data](#step-2-prep-and-qc-your-data)
