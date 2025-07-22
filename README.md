@@ -4,12 +4,12 @@
 
 1.  **[The Basics: Key Terms and Systems](#the-basics:-key-terms-and-systems)**
 2.  **The Archive Workflow: Step-by-Step**
-      * [Step 1: Planning](#step-1:-Planning)
-      * [Step 2: Prep and QC Your Data](#step-2:-prep-and-qc-your-data)
-      * [Step 3: Document Your Data in InPort](#step-3:-document-your-data-in-inport)
-      * [Step 4: Build the S2N Submission Package](#step-4:-build-the-s2n-submission-package)
-      * [Step 5: Handle Special Cases like Imagery and Code](#step-5:-handle-special-cases-like-imagery-and-code)
-      * [Step 6: Submit and Make Updates Later](#step-6:-submit-and-make-updates-later)
+      * [Step 1: Planning](#step-1-Planning)
+      * [Step 2: Prep and QC Your Data](#step-2-prep-and-qc-your-data)
+      * [Step 3: Document Your Data in InPort](#step-3-document-your-data-in-inport)
+      * [Step 4: Build the S2N Submission Package](#step-4-build-the-s2n-submission-package)
+      * [Step 5: Handle Special Cases like Imagery and Code](#step-5-handle-special-cases-like-imagery-and-code)
+      * [Step 6: Submit and Make Updates Later](#step-6-submit-and-make-updates-later)
 
 -----
 
