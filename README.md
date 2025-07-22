@@ -31,60 +31,79 @@
 
 Good archiving starts with a good plan for data collection and organizing! Before you begin a project its best to meet with someone from the DST to map out the project's data collection, timeline, and what's needed for archiving. Getting this done before data collection makes archiving much easier down the road😊
 
-**Related Guides:**
+**A Deeper Guide:**
+ * link parr github page
 
-  * "PARR Guidance for Datasets and Publications"
-  * "Archive Process Checklist"
+**Related Documents:**
+
+  * [PIFSC Publication Guidance](https://docs.google.com/document/d/1Fk5DPcdzFjuga-nuU943HOboVh35EvijLpKoGaaQkvk/edit?usp=sharing)
 
 ### Step 2: Prep and QC Your Data
 
 Your data needs to be clean, correctly formatted, reliable, and accurate. This step is all about getting your data files ready and running them through **Quality Control (QC)** process. 
 
 **Helpful Tools:**
-  * folderstats
-  * optical val
+  * [Folder Stats Tool](https://github.com/MichaelAkridge-NOAA/archive-toolbox/blob/main/toolbox/desktop/folder-stats-tool/folderstats.exe)
+  * [Archive Manifest File Tool](https://github.com/MichaelAkridge-NOAA/archive-toolbox/blob/main/toolbox/desktop/archive-manifest-file-tool/mnftool_gui.exe)
+  * [Clear Thumbs Database Tool](https://github.com/MichaelAkridge-NOAA/archive-toolbox/tree/main/toolbox/desktop/clear-thumbs-db-files)
+  * [File Copy Tool](https://github.com/MichaelAkridge-NOAA/archive-toolbox/blob/main/toolbox/desktop/file-copy-tool/filecopy_tool.exe)
+  * [Garmin GPS File Converter Tool](https://github.com/MichaelAkridge-NOAA/archive-toolbox/blob/main/toolbox/desktop/garmin-gps-file-converter/gpxconverter_windows_standalone.exe)
+  * [Heic Heif Converter Tool](https://github.com/MichaelAkridge-NOAA/archive-toolbox/blob/main/toolbox/desktop/heic-heif-converter/heic_converter.exe)
+  * [Deeper Explanation of Toos and Uses](https://github.com/MichaelAkridge-NOAA/archive-toolbox/blob/main/README.md)
 
-**Related Guides:**
+**A Deeper Guide:**
+ * link prep and qc github page
 
-  * "How to: QC your data"
-  * "How to: Prepare Data Files IN database via SQL Developer"
-  * "How to: Prepare Data Files NOT in Database"
+**Related Documents:**
+
+  * [How to: QC Your Data](https://docs.google.com/document/d/1Hv-QvBC5bwBvdr4iYivEWfJET7MEna7L9RqkOwSSXtE/edit?usp=sharing)
+  * [How to: Prepare Data Files IN Database via SQL Developer](https://docs.google.com/document/d/1GFxLZqB6qMCJiyBWRE9S1hYJgz41ZH_mUAJDX63Ojjw/edit?usp=sharing) 
+  * [How to: Prepare Data Files NOT IN Database](https://docs.google.com/document/d/1AybZiH03DRiLy4f5zelP8-VW6z2sEgzRJBQi8iK517M/edit?usp=sharing) 
 
 ### Step 3: Document Your Data in InPort
 
 In order to make data accessible and digestible  you have to describe it well. This is done by creating a metadata record in **InPort**. 
 
-**Related Guides:**
+**A Deeper Guide:**
+ * link inport github page
 
-  * "How to: InPort (document your data)"
-  * "Collaborative InPort Template"
-  * "How to: Data Citations"
+**Related Documents:**
+
+  * [How to: InPort (document your data)](https://docs.google.com/document/d/1kijqSQbISTcOO9JQ_5_AtAZuVvLc-y0y0v-KlKeO1sY/edit?usp=sharing)
+  * [Collaborative InPort Template](https://docs.google.com/document/d/1MGWM3o3VRjl-HQhLoPOmRZxR0w_Qvex06gVzGvH4YEo/edit?usp=sharing)
 
 ### Step 4: Build the S2N Submission Package
 
 With your data prepped and your InPort record done, it's time to build the package you'll send to NCEI. You'll use the **S2N** website to create a "stub" that links your data, your data dictionary, and the key metadata together for submission.
 
-**Related Guides:**
+**Helpful Tools:**
+* [Send2NCEI Tool](https://www.ncei.noaa.gov/archive/send2ncei/)
+  
+**A Deeper Guide:**
+ * link s2n github page
 
-  * "How to: S2N (submit your data to NOAA archive)"
-  * "SOP: How to: Archive Package Review 2023"
+**Related Documents:**
+
+  * [How to: S2N (submit your data to NOAA archive)](https://docs.google.com/document/d/18nofaF7c5Bc7OIUO3kUCzYo8FFspH6um3y_xpeBtaJo/edit?usp=sharing)
 
 ### Step 5: Handle Special Cases like Imagery and Code
 
 Not all data is a simple spreadsheet. We have specific ways to handle things like imagery and the R scripts. Big files often go to Google cloud via **NODD**, and code belongs in GitHub.
 
-**Related Guides:**
+**A Deeper Guide:**
+ * link special cases github page
 
-  * "SOP: Imagery Archive Prep 2023"
-  * "SOP: How to get set up for NODD 2023"
-  * "WorkingDoc: SOP Archiving R scripts on GitHub"
-  * "Guidance on archiving video 2024"
+**Helpful Tools:**
+* [NODD Upload Tool and Script](https://picgitlab.nmfs.local/esd/arp/data-services/esd-archive-toolbox/-/tree/main#python-example)
 
-### Step 6: Submit and Make Updates Later
+**Related Documents:**
 
-....
+  * [How to: Get Set Up for NODD](https://docs.google.com/document/d/1Y5BXsy9-qxT5QCBOdbHN0fyZgvkAqHjR6VSl8c--zWs/edit?usp=sharing)
+  * [SOP: Archiving R scripts on GitHub](https://docs.google.com/document/d/1DTgOJf6CPXxclpuO-A3KN8devmyLbtHPMu_4O27z5_k/edit?usp=sharing)
 
-**Related Guides:**
+### Misc Archive Info
 
-  * "How to: Update Archived Data or Metadata 2023"
-  * "SOP: Request a Reserve DOI"
+**Related Documents:**
+
+  * [How to: Update Archived Data or Metadata](https://docs.google.com/document/d/10fcrn4cuUv7YmncuzOuI2JtlK8B75p40CxcLOxAhvzE/edit?usp=sharing)
+  * [SOP: Request a Reserve DOI](https://docs.google.com/document/d/1rvjfUAspNcpUEH2NOgR485FJYKCkAxlIy7g7z99GyR4/edit?usp=sharing)
