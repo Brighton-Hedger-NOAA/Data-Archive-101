@@ -8,9 +8,8 @@
       * [Step 2: Prep and QC Your Data](#step-2-prep-and-qc-your-data)
       * [Step 3: Document Your Data in InPort](#step-3-document-your-data-in-inport)
       * [Step 4: Build the S2N Submission Package](#step-4-build-the-s2n-submission-package)
-      * [Step 5: Handle Special Cases like Imagery and Code](#step-5-handle-special-cases-like-imagery-and-code)
-      * [Step 6: Submit and Make Updates Later](#step-6-submit-and-make-updates-later)
-
+3.  **[Special Cases like Imagery and Code](#special-cases-like-imagery-and-code)**
+4.  **[Misc Archive Info](#misc-archive-info)**
 -----
 
 ## The Basics: Key Terms and Systems
@@ -86,7 +85,7 @@ With your data prepped and your InPort record done, it's time to build the packa
 
   * [How to: S2N (submit your data to NOAA archive)](https://docs.google.com/document/d/18nofaF7c5Bc7OIUO3kUCzYo8FFspH6um3y_xpeBtaJo/edit?usp=sharing)
 
-### Step 5: Handle Special Cases like Imagery and Code
+### Special Cases like Imagery and Code
 
 Not all data is a simple spreadsheet. We have specific ways to handle things like imagery and the R scripts. Big files often go to Google cloud via **NODD**, and code belongs in GitHub.
 
