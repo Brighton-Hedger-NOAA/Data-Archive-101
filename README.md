@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-1.  **[The Basics: Key Terms and Systems](https://www.google.com/search?q=%23the-basics-key-terms-and-systems)**
-2.  **[The Archive Workflow: Step-by-Step](https://www.google.com/search?q=%23the-archive-workflow-step-by-step)**
-      * [Step 1: Planning](https://www.google.com/search?q=%23step-1-plan-it-out)
-      * [Step 2: Prep and QC Your Data](https://www.google.com/search?q=%23step-2-prep-and-qc-your-data)
-      * [Step 3: Document Your Data in InPort](https://www.google.com/search?q=%23step-3-document-your-data-in-inport)
-      * [Step 4: Build the S2N Submission Package](https://www.google.com/search?q=%23step-4-build-the-s2n-submission-package)
-      * [Step 5: Handle Special Cases like Imagery and Code](https://www.google.com/search?q=%23step-5-handle-special-cases-like-imagery-and-code)
-      * [Step 6: Submit and Make Updates Later](https://www.google.com/search?q=%23step-6-submit-and-make-updates-later)
+1.  **[The Basics: Key Terms and Systems](#the-basics:-key-terms-and-systems)**
+2.  **The Archive Workflow: Step-by-Step**
+      * [Step 1: Planning](#step-1:-Planning)
+      * [Step 2: Prep and QC Your Data](#step-2:-prep-and-qc-your-data)
+      * [Step 3: Document Your Data in InPort](#step-3:-document-your-data-in-inport)
+      * [Step 4: Build the S2N Submission Package](#step-4:-build-the-s2n-submission-package)
+      * [Step 5: Handle Special Cases like Imagery and Code](#step-5:-handle-special-cases-like-imagery-and-code)
+      * [Step 6: Submit and Make Updates Later](#step-6:-submit-and-make-updates-later)
 
 -----
 
