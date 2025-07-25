@@ -1,0 +1,30 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that.
+
+# -- Site Settings --
+
+# The name of your site (displayed in the header)
+title: Data Archiving 101
+
+# The sub-title of your site (displayed in the header)
+description: A guide to data management and best practices at NOAA PIFSC.
+
+# The URL of your site's root, without a trailing slash
+url: "https://brighton-hedger-noaa.github.io"
+
+# The base directory of your site.
+# This MUST be the name of your repository.
+baseurl: "/Data-Archive-101"
+
+# Set the theme to Just the Docs
+remote_theme: just-the-docs/just-the-docs
+
+# Enable search
+search_enabled: true
+
+# Aux links for the header
+aux_links:
+  "Data-Archive-101 on GitHub":
+    - "https://github.com/Brighton-Hedger-NOAA/Data-Archive-101"
