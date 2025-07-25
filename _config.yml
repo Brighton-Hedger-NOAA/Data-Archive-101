@@ -28,6 +28,7 @@ search_enabled: true
 plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
+  - just-the-docs
 
 # Aux links for the header
 aux_links:
