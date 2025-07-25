@@ -1,0 +1,11 @@
+// _sass/custom/custom.scss
+
+// Use the dark navy for all headings
+h1, h2, h3, h4, h5, h6 {
+  color: #264079;
+}
+
+// Use the light cyan for the border on callouts/blockquotes
+blockquote {
+  border-left: 4px solid #8DDCDC;
+}
