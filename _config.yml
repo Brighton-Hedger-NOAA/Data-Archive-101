@@ -24,6 +24,8 @@ theme: just-the-docs
 # Enable search
 search_enabled: true
 
+color_scheme: pifsc
+
 # A list of Jekyll plugins to use
 plugins:
   - jekyll-seo-tag
