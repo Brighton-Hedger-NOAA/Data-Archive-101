@@ -1,0 +1,29 @@
+/* _sass/custom/custom.scss */
+// Import the theme's default variables
+@import "just-the-docs/variables";
+
+//
+// 1. SET YOUR CUSTOM BRAND COLOR
+//
+$color-scheme: "pifsc-custom";
+// This vibrant blue will be used for links, highlights, and buttons.
+$brand-color: #007EC6;
+
+//
+// 2. IMPORT THE THEME (REQUIRED)
+//
+@import "just-the-docs/just-the-docs";
+
+//
+// 3. ADD YOUR CUSTOM STYLES
+//
+
+// Use the dark navy for all headings
+h1, h2, h3, h4, h5, h6 {
+  color: #264079;
+}
+
+// Use the light cyan for the border on callouts/blockquotes
+blockquote {
+  border-left: 4px solid #8DDCDC;
+}
