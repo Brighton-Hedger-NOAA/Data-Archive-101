@@ -1,0 +1,13 @@
+# Theme settings
+theme: just-the-docs
+color_scheme: pifsc
+
+# Site settings
+title: Data Archiving 101
+description: A guide to data archiving at NOAA PIFSC.
+search_enabled: true
+
+# Build settings
+plugins:
+  - jekyll-seo-tag
+  - just-the-docs
