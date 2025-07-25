@@ -1,0 +1,7 @@
+// _sass/color_schemes/pifsc.scss
+
+// Start by importing the built-in light scheme
+@import "just-the-docs/color_schemes/light";
+
+// Override the brand color for links and highlights
+$brand-color: #007EC6;
