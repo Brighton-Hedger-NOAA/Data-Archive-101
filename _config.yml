@@ -18,6 +18,9 @@ remote_theme: just-the-docs/just-the-docs
 # Enable search
 search_enabled: true
 
+
+color_scheme: pifsc
+
 # Aux links for the header
 aux_links:
   "Data-Archive-101 on GitHub":
