@@ -1,3 +1,12 @@
 ---
 ---
-@import 'just-the-docs';
+
+// First, load our custom colors and variables
+@import "custom/custom";
+
+// Next, load the core components of the theme
+@import "just-the-docs/support";
+@import "just-the-docs/base";
+@import "just-the-docs/components";
+@import "just-the-docs/layouts";
+@import "just-the-docs/utilities";
