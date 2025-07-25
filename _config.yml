@@ -27,7 +27,6 @@ search_enabled: true
 # A list of Jekyll plugins to use
 plugins:
   - jekyll-seo-tag
-  - jekyll-include-cache
   - just-the-docs
 
 # Aux links for the header
