@@ -19,10 +19,15 @@ url: "https://brighton-hedger-noaa.github.io"
 baseurl: "/Data-Archive-101"
 
 # Set the theme to Just the Docs
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
 # Enable search
 search_enabled: true
+
+# A list of Jekyll plugins to use
+plugins:
+  - jekyll-seo-tag
+  - jekyll-include-cache
 
 # Aux links for the header
 aux_links:
